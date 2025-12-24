@@ -1,2 +1,2 @@
 # learning-log
-My Daily Tech , German , Programming journal
+My Daily Tech ,CyberTech, Programming journal
